@@ -1,0 +1,24 @@
+{
+  "name": "fake-booter",
+  "version": "1.0.0",
+  "description": "A fake booter to entertain the gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayrix/fake-booter.git"
+  },
+  "author": "Sayrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayrix/fake-booter/issues"
+  },
+  "homepage": "https://github.com/Sayrix/fake-booter#readme",
+  "dependencies": {
+    "braille-pattern-cli-loading-indicator": "0.0.4",
+    "colors": "^1.4.0",
+    "readline": "^1.3.0"
+  }
+}
